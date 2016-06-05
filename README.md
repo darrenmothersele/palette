@@ -6,6 +6,8 @@ A Clojure version developed by [Karsten Schmidt](https://github.com/thi-ng/color
 There's a [GLSL shadertoy](https://www.shadertoy.com/view/ll2GD3) version.
 And, [an online generator tool](http://dev.thi.ng/gradients/).
 
+![Gradient Example](https://raw.githubusercontent.com/darrenmothersele/palette/master/output.png "Gradient Example")
+
 Example
 
 Create your own values for a, b, c, and d, as described in the original
